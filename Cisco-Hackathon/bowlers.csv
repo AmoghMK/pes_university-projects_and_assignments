@@ -1,0 +1,41 @@
+Team,Player,Foreigner,Bat_score,Bowl_score,Score,cluster
+Delhi Daredevils,A Mishra,0,-0.483147031,0.5,0.016852969,4
+Delhi Daredevils,HV Patel,0,-0.498962242,-0.295564134,-0.794526376,3
+Delhi Daredevils,S Nadeem,0,-0.499366297,-0.257338935,-0.756705232,2
+Delhi Daredevils,TA Boult,1,-0.5,-0.418532581,-0.918532581,0
+Delhi Daredevils,DT Christian,1,-0.483440951,-0.314240688,-0.797681639,3
+Mumbai Indians,JJ Bumrah,0,-0.499864703,-0.21914726,-0.719011962,2
+Mumbai Indians,Mustafizur Rahman,1,-0.5,-0.374470858,-0.874470858,0
+Mumbai Indians,PJ Cummins,1,-0.499011387,-0.396641072,-0.895652458,0
+Mumbai Indians,PJ Sangwan,0,-0.499650098,-0.31052125,-0.810171349,3
+Mumbai Indians,KH Pandya,0,-0.488411673,-0.390905924,-0.879317597,0
+Kings XI Punjab,R Ashwin,0,-0.49111343,0.337255744,-0.153857685,1
+Kings XI Punjab,MM Sharma,0,-0.4970114,0.061236951,-0.435774449,1
+Kings XI Punjab,AJ Tye,1,-0.499728344,-0.351157283,-0.850885626,0
+Kings XI Punjab,MP Stoinis,1,-0.497896227,-0.445025966,-0.942922193,0
+Kings XI Punjab,AR Patel,0,-0.469251388,-0.087180322,-0.556431711,2
+Royal Challengers Bangalore,UT Yadav,0,-0.498721846,0.040125983,-0.458595862,1
+Royal Challengers Bangalore,YS Chahal,0,-0.499881683,0.015519226,-0.484362458,2
+Royal Challengers Bangalore,P Negi,0,-0.487751232,-0.288912367,-0.776663598,3
+Royal Challengers Bangalore,NM Coulter-Nile,1,-0.499088707,-0.209062032,-0.708150739,3
+Royal Challengers Bangalore,CR Woakes,1,-0.499590371,-0.385809467,-0.885399838,0
+Sunrisers Hyderabad,B Kumar,0,-0.494566007,0.432953605,-0.061612401,1
+Sunrisers Hyderabad,Rashid Khan,1,-0.499895854,-0.347600429,-0.847496283,0
+Sunrisers Hyderabad,S Kaul,0,-0.5,-0.362700423,-0.862700423,0
+Sunrisers Hyderabad,Sandeep Sharma,0,-0.499936823,0.031337957,-0.468598866,2
+Sunrisers Hyderabad,Shakib Al Hasan,1,-0.479539751,-0.176816339,-0.65635609,3
+Chennai Super Kings,RA Jadeja,0,-0.293971639,0.018056138,-0.275915501,1
+Chennai Super Kings,DJ Bravo,1,-0.384760667,0.368177149,-0.016583518,1
+Chennai Super Kings,SR Watson,1,-0.132080122,0.062983141,-0.069096981,1
+Chennai Super Kings,Harbhajan Singh,0,-0.431456696,0.46658056,0.035123864,4
+Chennai Super Kings,Imran Tahir,1,-0.49980208,-0.155809725,-0.655611805,3
+Kolkata Knight Riders,SP Narine,1,-0.490330532,0.382083128,-0.108247405,1
+Kolkata Knight Riders,MA Starc,1,-0.498711665,-0.21221018,-0.710921845,3
+Kolkata Knight Riders,MG Johnson,1,-0.496437601,-0.090832733,-0.587270334,2
+Kolkata Knight Riders,R Vinay Kumar,0,-0.485228856,0.135280339,-0.349948518,1
+Kolkata Knight Riders,Kuldeep Yadav,0,-0.499883954,-0.379040044,-0.878923998,0
+Rajasthan Royals,BA Stokes,1,-0.494442711,-0.411150786,-0.905593497,0
+Rajasthan Royals,STR Binny,0,-0.451140964,-0.366614447,-0.817755411,3
+Rajasthan Royals,DS Kulkarni,0,-0.498615369,0.025545446,-0.473069922,2
+Rajasthan Royals,JD Unadkat,0,-0.499981102,-0.10165607,-0.601637172,2
+Rajasthan Royals,B Laughlin,1,-0.499981064,-0.496755567,-0.996736632,0
